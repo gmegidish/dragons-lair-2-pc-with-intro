@@ -11,6 +11,10 @@ Hache is Hernán Beroldo, artist from Argentina. And his work made this possible
 
 You can see how it runs on my facebook page: https://www.facebook.com/GilMegidish/posts/pfbid02AdpY4naXw5XuzqZefsShzKMNmEeTSYxN3Li7UN5KwL3k4A8WvuKFmgB8wxBEUKFCl
 
+##### Getting started
+
+Clone this repo, run `make` to build the .com file, and `make run` to launch it with dosbox-x on your mac.
+
 ##### Technical details
 
 The code in this current state is:
